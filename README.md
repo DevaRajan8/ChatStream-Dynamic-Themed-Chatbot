@@ -1,4 +1,4 @@
-# ChatStream: Adaptive Chatbot Interface
+# ChatStream: Dynamic-Themed-Chatbot
 
 **ChatStream** is an interactive chatbot application built using Streamlit and integrated with the LangChain and Ollama AI models. The application features dynamic theme switching between light and dark modes to enhance user experience.
 
