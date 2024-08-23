@@ -1,0 +1,7 @@
+# LangChain libraries
+langchain==0.0.1
+langchain-ollama==0.0.1
+ollama==0.0.1
+
+# Streamlit library
+streamlit==1.20.0
