@@ -91,4 +91,3 @@ For any inquiries, please contact us at:
 - [rdeva6046@gmail.com](mailto:your-email@example.com)
 
 For additional information and to contribute to the project, please check the repository or open an issue.
-```
